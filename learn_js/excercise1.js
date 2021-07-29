@@ -26,4 +26,10 @@ console.log(z);
 var d = 50;
 var e = d;
 console.log(e);
+var f = 3;
+f++;
+console.log(f);
+var g = 4;
+g--;
+console.log(g);
 
