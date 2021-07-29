@@ -32,4 +32,10 @@ console.log(f);
 var g = 4;
 g--;
 console.log(g);
+var h = 6;
+h*=10;
+console.log(h);
+var i = 10;
+i/=5;
+console.log(i);
 
