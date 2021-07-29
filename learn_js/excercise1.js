@@ -15,3 +15,7 @@ console.log(x + y);
 console.log(x - y);
 console.log(x * y);
 console.log(x / y);
+var c = 'TTD';
+var d = "đz vcl";
+var z = c + ' ' + d;
+console.log(z);
