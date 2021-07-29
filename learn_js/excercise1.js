@@ -6,6 +6,10 @@ var name = "Tran Tien Dung";
 var description = "siêu đẹp zai";
 var troiMua = true;
 var troiNang = false;
+const AGE = 10;
+const CAR = 11;
+const TEAM = 12;
+const FAMILY = 13;
 console.log(a + b);
 console.log(a - b);
 console.log(a * b);
@@ -19,3 +23,7 @@ var c = 'TTD';
 var d = "đz vcl";
 var z = c + ' ' + d;
 console.log(z);
+var d = 50;
+var e = d;
+console.log(e);
+
